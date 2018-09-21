@@ -1,5 +1,5 @@
 # Aplicación financiera
-> Rediseño de una aplicación financiera que ayuda a los usuarios a visualizar sus gastos mensuale y fomenta el ahorro
+> Proyecto realzado por Alexandra Miñano y Patricia Vidal
 
 ## Índice
 
@@ -7,46 +7,63 @@
 * **Problemas encotrados:** Exposición de las problemáticas identificadas a nivel de negocio y de usuario.
 * **Recomendaciones:** Presentación de recomendación para nuestro cliente.
 * **Prototipos:** Enlace a prototipo de alta fidelidad en Figma e interactivo en Marvel.
+* **Conoce más:** Acceso a nuestra carpeta de trabajo.
+
 ***
 Prueba el video de nuestro demo [AQUÍ]()
 
 ## Objetivos iniciales
 
-Nuestro cliente, el banco más importante del País, nos contrató con el objetivo principal de rediseñar una aplicación móvil que permite a los usuarios a visualizar sus gastos mensuales y fomenta el ahorro.
+Nuestro cliente, el banco más importante del País, nos contrató con el objetivo principal de rediseñar una aplicación móvil que permite a los usuarios a visualizar sus gastos mensuales y fomenta el ahorro. Además solicitó recomendaciones para modificaciones del producto actual, desarrollos que se podrían imlementar próximamente y destinación del presupuesto de marketing.
+
+## Problemas encontrados
+
+Con respecto al análisis heurístico y de usabilidad de la aplicación móvil: 
+
+* Los espacios clickeables aveces resultan muy pequeños, y por ende, incómodo de usar por el usuario.
+* La visibilidad del estado del sistema no permite una navegacion muy rápida, sobretodo por el menú. Además no se puede cerrar sesión.
+* La aplicación no sigue los estándares al navegar usando un menú, ni tampoco al agregar un nuevo objetivo de ahorro.
+* Proceso demasiado largo para registrarse era demasiado largo.
+* En cuanto a la consistencia, la opción de buscar no tiene razón de ser y el "cancelar", en la huella digital, confunde a los usuarios.
+
+Con respecto aal proceso para el uso de la aplicación:
+
+* Los usuarios experimentan dolor al momento de visitar el landing page, en el proceso de registro y el uso de la app.
+
+Con respecto al análisis de la data y analíticas:
+
+* La publicidad en facebook tiene un incremento positivo, mes a mes; sin embargo, solo el 2,4% de los usuarios potenciales visita el landing page que los conecta con la descarga de la aplicación.
+* El porcentaje de usuarios que usan el sistema operativo Android y visitan el landing page es mayor a los que poseen iOS.
+
+Con respecto al público objetivo:
+
+* Los usuarios potenciales tienen una edad mayor a la que se visualiza en el user persona principal.
+* Los jóvenes peruanos entre 18 y 22 años no selen usar app de bancos porque perciben muy pocos ingresos.
+* Nuestro público objetivo no tiene una forma sistemátia de organizar su flujo de ingresos y egresos.
+
+## Recomendaciones
+
+Con respecto al flujo y usabilidad del MVP:
+
+Con respecto a los resultados de la data:
+
+Con respecto a los usuarios finales:
+
+* Reformulación de los user personas primario y secundario.
 
 
 
-...................
-README.md  detallando:
+## Prototipos
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
+Visita nuestro muckup en [Figma]() y nuestro prototipo interactivo en [Marvel](). 
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
+## Prototipos
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+Accede a revisar nuestra carpeta con el proyecto y el proceso detallado en [Drive]().
 
-## Preámbulo
+:::::::
 
-El banco más importante del país ha lanzado una nueva aplicación móvil al
-mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
-el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
-equipo detrás de este nuevo producto ha decidido contratar a una
-agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
-de UX y son asignadas al proyecto.
+
 
 ## Introducción
 
