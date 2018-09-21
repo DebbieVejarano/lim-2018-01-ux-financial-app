@@ -29,6 +29,7 @@ Con respecto al análisis heurístico y de usabilidad de la aplicación móvil:
 Con respecto al proceso para el uso de la aplicación:
 
 * Los usuarios experimentan dolor al momento de visitar el landing page, en el proceso de registro y el uso de la app.
+![journey map](https://fotos.subefotos.com/b784e3d273e8e413a1dfa42f2164addco.jpg)
 
 Con respecto al análisis de la data y analíticas:
 
@@ -62,12 +63,14 @@ Con respecto a los usuarios finales:
 
 * Reformulación de los user personas primario y secundario.
 
-
-
-## Prototipos
-
-Visita nuestro muckup en [Figma]() y nuestro prototipo interactivo en [Marvel](). 
+User persona
+![user primario](https://fotos.subefotos.com/575fa8125a3fe2bd95ee9c80738953d7o.jpg)
+![user secundario](https://fotos.subefotos.com/8f4c212099588f44aa6752b06a2686b6o.jpg)
 
 ## Prototipos
 
-Accede a revisar nuestra carpeta con el proyecto y el proceso detallado en [Drive]().
+Visita nuestro muckup en [Figma](https://www.figma.com/proto/U3q04YRE3X9aZ3CIrs6wPbUr/App--Tus-Finanzas?node-id=0%3A1&scaling=min-zoom) y nuestro prototipo interactivo en [Marvel](https://marvelapp.com/5idhbh3). 
+
+## Prototipos
+
+Accede a revisar nuestra carpeta con el proyecto y el proceso detallado en [Drive](https://drive.google.com/open?id=1LQAvjaRQyA_9ngV76PorbJ4iMtmyTJyr).
