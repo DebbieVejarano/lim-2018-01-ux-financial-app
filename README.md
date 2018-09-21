@@ -1,4 +1,42 @@
 # Aplicación financiera
+> Rediseño de una aplicación financiera que ayuda a los usuarios a visualizar sus gastos mensuale y fomenta el ahorro
+
+## Índice
+
+* **Objetivos iniciales:** Descripción de la finalidad con la cual se nos entrega el proyecto.
+* **Problemas encotrados:** Exposición de las problemáticas identificadas a nivel de negocio y de usuario.
+* **Recomendaciones:** Presentación de recomendación para nuestro cliente.
+* **Prototipos:** Enlace a prototipo de alta fidelidad en Figma e interactivo en Marvel.
+***
+Prueba el video de nuestro demo [AQUÍ]()
+
+## Objetivos iniciales
+
+Nuestro cliente, el banco más importante del País, nos contrató con el objetivo principal de rediseñar una aplicación móvil que permite a los usuarios a visualizar sus gastos mensuales y fomenta el ahorro.
+
+
+
+...................
+README.md  detallando:
+
+* Objetivos iniciales del proyecto
+* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
+* Recomendaciones de próximos pasos para el banco con respecto al app (estas
+  recomendaciones tendrán que ser sustentadas por tu investigación):
+  * Qué modificaciones se deberían hacer
+  * Cuáles deberían ser los próximos desarrollos
+  * En qué se debería invertir el presupuesto de marketing
+* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
+  estos deberán ser diseñados y entregados en un prototipo de alta definición.
+* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
+  diseños con desarrolladores
+
+Un video en Loom de máximo 5 minutos explicando tu documento.
+* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
+  el `README.md` y para hacer un demo de la solución propuesta.
+
+En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
+agregar los documentos complementarios que sustenten tu proceso.
 
 ## Preámbulo
 
@@ -177,22 +215,6 @@ Para el hacker edition puedes elegir una o varias de estas opciones:
 
 ## Otras consideraciones
 
-### 1) Planeamiento y presupuesto
-
-En el reto del marketplace te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicinalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
-
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
-
 ### 2) Prototipo de alta fidelidad
 
 Existen varias herramientas que puedes utilizar para crear diseñar el producto,
@@ -205,36 +227,5 @@ ya que para el testing tendrás que usar una herramienta llamada
 Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
 como: contraste, alineación, jerarquía, entre otros.
 
-## Evaluación
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
 
-### UX Design
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 5 |
-|Planificación| 4 |
-|Entrevistas y testing| 4 |
-|Observación| 4 |
-|Síntesis de resultados| 4 |
-|Flujos de usuario| 4 |
-|Arquitectura de la información| 3 |
-|Prototyping| 5 |
-|Business mindset| 5 |
-|Visual Design| 4 |
-
-### Soft skills
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de Problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo (trabajo colaborativo y responsabilidad)| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
