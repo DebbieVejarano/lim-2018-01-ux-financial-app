@@ -20,13 +20,13 @@ Nuestro cliente, el banco más importante del País, nos contrató con el objeti
 
 Con respecto al análisis heurístico y de usabilidad de la aplicación móvil: 
 
-* Los espacios clickeables aveces resultan muy pequeños, y por ende, incómodo de usar por el usuario.
+* Los espacios clickeables aveces resultan muy pequeños, y por ende, incómodos de usar por el usuario.
 * La visibilidad del estado del sistema no permite una navegacion muy rápida, sobretodo por el menú. Además no se puede cerrar sesión.
 * La aplicación no sigue los estándares al navegar usando un menú, ni tampoco al agregar un nuevo objetivo de ahorro.
 * Proceso demasiado largo para registrarse era demasiado largo.
 * En cuanto a la consistencia, la opción de buscar no tiene razón de ser y el "cancelar", en la huella digital, confunde a los usuarios.
 
-Con respecto aal proceso para el uso de la aplicación:
+Con respecto al proceso para el uso de la aplicación:
 
 * Los usuarios experimentan dolor al momento de visitar el landing page, en el proceso de registro y el uso de la app.
 
@@ -43,9 +43,15 @@ Con respecto al público objetivo:
 
 ## Recomendaciones
 
-Con respecto al flujo y usabilidad del MVP:
+Con respecto a las modificaciones del producto:
+* Los espacios clickeables serían de mayor tamaño.
+* El menú lo dejaríamos fijado a la parte inferior de la pantalla para una navegacón más rápida.
+* Aregaríamos un opción de ajustes al menú para poder editar perfil y cerrar sesión.
+* Escogeríamos colocar un botón más estandar para agregar una meta de ahorro.
 
-Con respecto a los resultados de la data:
+Con respeecto futuros desarrollos del proyecto:
+
+Con respecto al destino del presupuesto de marketing:
 
 Con respecto a los usuarios finales:
 
