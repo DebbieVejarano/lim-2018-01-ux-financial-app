@@ -30,7 +30,6 @@ Con respecto al proceso para el uso de la aplicación:
 
 * Los usuarios experimentan dolor al momento de visitar el landing page, en el proceso de registro y el uso de la app.
 ![journey map](https://fotos.subefotos.com/b784e3d273e8e413a1dfa42f2164addco.jpg)
-
 Con respecto al análisis de la data y analíticas:
 
 * La publicidad en facebook tiene un incremento positivo, mes a mes; sin embargo, solo el 2,4% de los usuarios potenciales visita el landing page que los conecta con la descarga de la aplicación.
