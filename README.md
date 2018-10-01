@@ -1,5 +1,5 @@
-# Aplicación financiera
-> Proyecto realzado por Alexandra Miñano y Patricia Vidal
+# Aplicación financiera: Tus Finanzas
+ >Proyecto realizado por Alexandra Miñano y Patricia Vidal
 
 ## Índice
 
@@ -10,7 +10,7 @@
 * **Conoce más:** Acceso a nuestra carpeta de trabajo.
 
 ***
-Prueba el video de nuestro demo [AQUÍ]()
+Prueba el video de nuestro demo [AQUÍ](https://www.youtube.com/watch?v=nqtEUhc2ImY)
 
 ## Objetivos iniciales
 
@@ -20,11 +20,11 @@ Nuestro cliente, el banco más importante del País, nos contrató con el objeti
 
 Con respecto al análisis heurístico y de usabilidad de la aplicación móvil: 
 
-* Los espacios clickeables aveces resultan muy pequeños, y por ende, incómodos de usar por el usuario.
-* La visibilidad del estado del sistema no permite una navegacion muy rápida, sobretodo por el menú. Además no se puede cerrar sesión.
+* Los espacios clickeables a veces resultan muy pequeños, y por ende, incómodos de usar por el usuario.
+* La visibilidad del estado del sistema no permite una navegación muy rápida, sobretodo por el menú. Además no se puede cerrar sesión.
 * La aplicación no sigue los estándares al navegar usando un menú, ni tampoco al agregar un nuevo objetivo de ahorro.
-* Proceso demasiado largo para registrarse era demasiado largo.
-* En cuanto a la consistencia, la opción de buscar no tiene razón de ser y el "cancelar", en la huella digital, confunde a los usuarios.
+* Proceso demasiado largo para registrarse. Varias de las personas testeadas desertaban en el proceso de registro.
+* En cuanto a la consistencia, la opción de **buscar** no tiene razón de ser y el **cancelar**, en la huella digital, confunde a los usuarios.
 
 Con respecto al proceso para el uso de la aplicación:
 
@@ -45,31 +45,35 @@ Con respecto al público objetivo:
 
 Con respecto a las modificaciones del producto:
 * Los espacios clickeables serían de mayor tamaño.
-* El menú lo dejaríamos fijado a la parte inferior de la pantalla para una navegacón más rápida.
-* Aregaríamos un opción de ajustes al menú para poder editar perfil y cerrar sesión.
+* Debido al resultado de un benchmark con apps de celular, recomendamos mantener el menú fijado a la parte inferior de la pantalla para una navegacón más rápida.
+* Agregaríamos un opción de ajustes al menú para poder editar perfil y cerrar sesión.
 * Escogeríamos colocar un botón más estandar para agregar una meta de ahorro.
-* Omitiríamos el paso de registrarse usando correo electrónico y contraseña, ya que no se aprecia ninguna utilidad y, por el contrario, alarga más el proceso
+* Omitiríamos el paso de registrarse usando correo electrónico y contraseña, ya que no se aprecia ninguna utilidad y, por el contrario, alarga más el proceso.
 * Restaríamos la opción de buscar ya que actualmente no tiene una utilidad
-* Quitar la opción de usuario y contrseña del landing page.
+* Quitaríamos la opción de usuario y contraseña del landing page.
 
-Con respecto futuros desarrollos del proyecto:
-* Desarrollar la app para android usando los componentes que se mnejan actualmente.
+Con respecto a futuros desarrollos del proyecto:
+* Desarrollar la app para android usando los componentes que se manejan actualmente.
 
 Con respecto al destino del presupuesto de marketing:
-* Que se siga manteniendo la publicidad en facebook pero que se analice el contenido de esta. Una reomendación de nuestra agencia es insertar un carrousel de imagenes con la opción de descarga en android, descarga en ios y visita el landing page.
+* Que se siga manteniendo la publicidad en facebook pero que se analice el contenido de esta. Una recomendación de nuestra agencia es insertar un carrousel de imágenes con la opción de descarga en android, descarga en ios y visita el landing page.
 
 Con respecto a los usuarios finales:
 
 * Reformulación de los user personas primario y secundario.
 
-User persona
+User persona primario:
 ![user primario](https://fotos.subefotos.com/575fa8125a3fe2bd95ee9c80738953d7o.jpg)
+
+User persona secundario:
 ![user secundario](https://fotos.subefotos.com/8f4c212099588f44aa6752b06a2686b6o.jpg)
 
 ## Prototipos
 
-Visita nuestro muckup en [Figma](https://www.figma.com/proto/U3q04YRE3X9aZ3CIrs6wPbUr/App--Tus-Finanzas?node-id=0%3A1&scaling=min-zoom) y nuestro prototipo interactivo en [Marvel](https://marvelapp.com/5idhbh3). 
+Visita nuestro mockup en [Figma](https://www.figma.com/proto/U3q04YRE3X9aZ3CIrs6wPbUr/App--Tus-Finanzas?node-id=0%3A1&scaling=min-zoom) y nuestro prototipo interactivo en [Marvel](https://marvelapp.com/5idhbh3). 
 
-## Prototipos
+## Desarrollo del proyecto
 
 Accede a revisar nuestra carpeta con el proyecto y el proceso detallado en [Drive](https://drive.google.com/open?id=1LQAvjaRQyA_9ngV76PorbJ4iMtmyTJyr).
+
+### ¡Gracias!
