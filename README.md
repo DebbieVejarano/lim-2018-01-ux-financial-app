@@ -76,7 +76,10 @@ Visita nuestro mockup en [Figma](https://www.figma.com/proto/U3q04YRE3X9aZ3CIrs6
 ## Desarrollo del proyecto
 
 Accede a revisar nuestra carpeta con el proyecto y el proceso detallado en [Drive](https://drive.google.com/open?id=1LQAvjaRQyA_9ngV76PorbJ4iMtmyTJyr).<br>
-Para desarrolladores en [Zeplin](https://app.zeplin.io/project/5b8e8d0840155c1a718dacd6/dashboard). <br>
-Y este es el video en [Loom](https://www.useloom.com/share/a459c8a0e4534a858ed27743e4dfc538).
+Para desarrolladores en [Zeplin](https://app.zeplin.io/project/5b8e8d0840155c1a718dacd6/dashboard).<br>
+Y este es el link del video en [Loom](https://www.useloom.com/share/a459c8a0e4534a858ed27743e4dfc538).
+
+### Planificación y actividades
+CLick [aquí](https://docs.google.com/presentation/d/1fqk1VvViLI9nL9E5xAZolZyKpNHqD2yKEQhL_xhzt8g/edit#slide=id.g43e9df57e6_0_0).
 
 ### ¡Gracias!
